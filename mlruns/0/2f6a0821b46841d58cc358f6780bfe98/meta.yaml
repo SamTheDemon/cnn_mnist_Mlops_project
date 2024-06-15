@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/ma5-m/OneDrive%20-%20istinye%20%C3%BCniversitesi/ISU/2nd%20semester/MLops/project/implementation/cnn_mnist_project/mlruns/0/2f6a0821b46841d58cc358f6780bfe98/artifacts
+end_time: 1718483843667
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2f6a0821b46841d58cc358f6780bfe98
+run_name: luminous-eel-784
+run_uuid: 2f6a0821b46841d58cc358f6780bfe98
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718481700588
+status: 3
+tags: []
+user_id: ma5-m

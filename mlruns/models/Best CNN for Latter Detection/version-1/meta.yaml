@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1718487202763
+current_stage: None
+description: ''
+last_updated_timestamp: 1718487202763
+name: Best CNN for Latter Detection
+run_id: 565a5192ddcf4a4aa63e452748f39614
+run_link: ''
+source: file:///C:/Users/ma5-m/OneDrive%20-%20istinye%20%C3%BCniversitesi/ISU/2nd%20semester/MLops/project/implementation/cnn_mnist_project/mlruns/0/565a5192ddcf4a4aa63e452748f39614/artifacts/model
+status: READY
+status_message: null
+storage_location: file:///C:/Users/ma5-m/OneDrive%20-%20istinye%20%C3%BCniversitesi/ISU/2nd%20semester/MLops/project/implementation/cnn_mnist_project/mlruns/0/565a5192ddcf4a4aa63e452748f39614/artifacts/model
+user_id: null
+version: 1
